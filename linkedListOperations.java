@@ -12,7 +12,7 @@ public class linkedListOperations {
 	}
 	public void addLinkedList()
 	{
-		System.out.println("This is a Java Class");
+		System.out.println("This is a Java Class*********************////");
 	}
 	public void printTrianlge()
 	{
